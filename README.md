@@ -6,4 +6,4 @@ App Download link:
 
 [![Latest Unstable Version](https://poser.pugx.org/buonzz/laravel-4-freegeoip/v/unstable.svg)](https://github.com/ShubhamKushwah/SimPlus)
 
-/ Requested by Ramneek Kalra, HMRITM.
+// Requested by Ramneek Kalra, HMRITM.
