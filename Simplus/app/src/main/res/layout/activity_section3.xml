@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorList"
+    tools:context="com.syberkeep.simplus.Section3">
+
+    <!--Or use a Recycler view maybe-->
+    <ListView
+        android:id="@+id/list_contacts"
+        android:divider="@android:color/white"
+        android:dividerHeight="0dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+</LinearLayout>
